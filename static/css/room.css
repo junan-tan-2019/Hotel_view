@@ -1,0 +1,28 @@
+#button-holder {
+    
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+#amenities {
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: 30px;
+}
+
+#welcome {
+    margin-top: 30px;
+    margin-left: 80px;
+    border-width: thin;
+    border-style: solid;
+    border-color: silver;
+    max-width: 1110px;
+}
+
+#roomImages {
+    align-items: center;
+    margin-left: 130px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
